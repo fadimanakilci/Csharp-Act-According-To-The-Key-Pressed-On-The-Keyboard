@@ -9,9 +9,9 @@
   4. When you press 'Esc' on the keyboard: *Exit the program.*
 * When you press 'Esc' on the keyboard: *Exit the program.*
 
-** Console(Terminal) Window Settings **
+**Console(Terminal) Window Settings**
 
-We will run the application inside VS Code's integrated terminal. In this we need to change the ``"console"`` settings. First, let's open the ``launch.json`` file in the ``.vscode`` folder in the project. Change the line ``"console": "internalConsole",`` found here to ``"console": "integratedTerminal",`` . Your code should be as follows.
+We will run the application inside VS Code's integrated terminal. In this we need to change the *"console"* settings. First, let's open the **launch.json** file in the **.vscode** folder in the project. Change the line ``"console": "internalConsole",`` found here to ``"console": "integratedTerminal",`` . Your code should be as follows.
 
 ```
 {
